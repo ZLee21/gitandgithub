@@ -101,7 +101,7 @@ You don't need to make these projects complicated. These projects are built to s
 - [Kaggle](https://www.kaggle.com/datasets)
 - [data.world](https://data.world/search?context=community&entryTypeLabel=dataset&q=free+data&type=all)
 
-## Let's go through the prAcess with this [Github repo](https://github.com/hathawayj/gitandgithub)
+## Let's go through the process with this [Github repo](https://github.com/hathawayj/gitandgithub)
 
 1. Fork repo on Github
 2. Clone repo to local computer
